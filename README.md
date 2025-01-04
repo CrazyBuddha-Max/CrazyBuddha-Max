@@ -19,7 +19,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/CrazyBuddha-MAX/co
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CrazyBuddha-MAX&theme=ambient_gradient)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CrazyBuddha-MAX&show_icons=true&theme=ambient_gradient)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrazyBuddha-MAX&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
