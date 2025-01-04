@@ -17,7 +17,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/CrazyBuddha-MAX/co
 ![](https://img.shields.io/badge/javascript-yellow)![](https://img.shields.io/badge/Next.js-blue)
 
 
-![](https://github-readme-activity-graph.cyclic.app/graph?username=你的Github用户名&theme=dracula)
+![](https://github-readme-activity-graph.cyclic.app/graph?username=CrazyBuddha-MAX&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrazyBuddha-MAX&layout=compact&theme=tokyonight)
 
