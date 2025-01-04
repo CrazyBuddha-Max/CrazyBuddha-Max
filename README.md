@@ -13,9 +13,8 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/CrazyBuddha-MAX/co
 ### My Skill Set
 
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/springboot-green)![](https://img.shields.io/badge/vue-green)![](https://img.shields.io/badge/HTML-yellow)
-
-
+![](https://img.shields.io/badge/springboot-green)![](https://img.shields.io/badge/vue-green)![](https://img.shields.io/badge/HTML-yellow)![](https://img.shields.io/badge/CSS-yellow)
+![](https://img.shields.io/badge/javascript-yellow)![](https://img.shields.io/badge/Next.js-blue)
 
 
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=你的Github用户名&theme=dracula)
