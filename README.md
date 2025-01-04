@@ -16,6 +16,8 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/CrazyBuddha-MAX/co
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![](https://img.shields.io/badge/springboot-green)![](https://img.shields.io/badge/vue-green)
 ![](https://img.shields.io/badge/HTML-yellow)![](https://img.shields.io/badge/CSS-yellow)![](https://img.shields.io/badge/javascript-yellow)![](https://img.shields.io/badge/Next.js-blue)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrazyBuddha-MAX&layout=compact&theme=ambient_gradient)
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CrazyBuddha-MAX&theme=monokai)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
