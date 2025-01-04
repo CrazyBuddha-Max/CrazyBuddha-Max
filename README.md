@@ -17,8 +17,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/CrazyBuddha-MAX/co
 ![](https://img.shields.io/badge/javascript-yellow)![](https://img.shields.io/badge/Next.js-blue)
 
 
-[![](https://github-readme-activity-graph.vercel.app/graph?username=CrazyBuddha-MAX)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CrazyBuddha-MAX&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrazyBuddha-MAX&layout=compact&theme=tokyonight)
 
 
