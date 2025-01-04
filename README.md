@@ -18,6 +18,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/CrazyBuddha-MAX/co
 
 
 
+![](https://github-readme-activity-graph.cyclic.app/graph?username=你的Github用户名&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrazyBuddha-MAX&layout=compact&theme=tokyonight)
 
