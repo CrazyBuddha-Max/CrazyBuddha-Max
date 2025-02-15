@@ -1,7 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fatpandac/fatpandac/main/profile-3d-contrib/profile-night-rainbow.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CrazyBuddha-Max/CrazyBuddha-Max/profile-3d-contrib/profile-gitblock.svg">
-  <img alt="My GitHub Status" src="https://raw.githubusercontent.com/Fatpandac/fatpandac/main/profile-3d-contrib/profile-night-green.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CrazyBuddha-Max/CrazyBuddha-Max/main/profile-3d-contrib/profile-night-rainbow.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CrazyBuddha-Max/CrazyBuddha-Max/main/profile-3d-contrib/profile-gitblock.svg">
 </picture>
 
 - 🔭 I’m currently working on something cool, Artificial intelligence, network security, NLP, and 3D modeling are all the directions I am currently working on..
