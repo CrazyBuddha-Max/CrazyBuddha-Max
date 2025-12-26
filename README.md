@@ -3,7 +3,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CrazyBuddha-Max/CrazyBuddha-Max/main/profile-3d-contrib/profile-gitblock.svg">
 </picture>
 
-- 🔭 I’m currently working on something cool, Artificial intelligence, network security, NLP, and 3D modeling are all the directions I am currently working on..
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6DDCCF&background=FF52BC00&width=610&lines=I’m currently working on something cool, Artificial intelligence, network security, NLP, and 3D modeling are all the directions I am currently working on.." alt="Typing SVG" /></a>
 - 🌱 I’m currently learning Everything I like.
 - 📫 How to reach me: crazybuddha214993@gmail.com
 - 😄 Read more about my CSDN: [here](https://blog.csdn.net/qq_50631755?spm=1000.2115.3001.5343)
