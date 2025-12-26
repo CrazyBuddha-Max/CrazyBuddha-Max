@@ -19,11 +19,7 @@
 - 📧 **联系方式**: crazybuddha214993@gmail.com
 
 ### 🏆 荣誉墙 / GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=CrazyBuddha-Max&theme=onedark&column=4&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
-  </a>
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=CrazyBuddha-Max)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🛠 技术栈 / My Skill Set
 <p align="left">
