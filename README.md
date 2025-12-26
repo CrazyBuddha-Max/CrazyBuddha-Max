@@ -14,7 +14,7 @@
 
 ### 💫 关于我 / About Me
 - 🤖 **研究方向**: 人工智能 (AI), 自然语言处理 (NLP), 网络安全, 3D 建模
-- 🌱 **正在学习**: "Everything I like" - 目前深耕深度学习相关领域
+- 🌱 **正在学习**: 目前深耕AI领域
 - ✍️ **技术博客**: [我的 CSDN 主页](https://blog.csdn.net/qq_50631755)
 - 📧 **联系方式**: crazybuddha214993@gmail.com
 
