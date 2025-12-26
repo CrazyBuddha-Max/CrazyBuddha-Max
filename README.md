@@ -28,10 +28,7 @@
 </p>
 
 ### 📊 统计数据 / Github Stats
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CrazyBuddha-Max&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrazyBuddha-Max&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://metrics.lecoq.io/CrazyBuddha-Max?base=header,activity,community,repositories,metadata&base.indepth=true&config.timezone=Asia/Shanghai" />
 
 ---
 
