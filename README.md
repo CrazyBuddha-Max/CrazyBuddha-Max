@@ -3,9 +3,9 @@
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CrazyBuddha-Max/CrazyBuddha-Max/main/profile-3d-contrib/profile-night-rainbow.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CrazyBuddha-Max/CrazyBuddha-Max/main/profile-3d-contrib/profile-gitblock.svg">
-  <img alt="GitHub Contributions" src="https://raw.githubusercontent.com/CrazyBuddha-Max/CrazyBuddha-Max/main/profile-3d-contrib/profile-night-rainbow.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CrazyBuddha-MAX/CrazyBuddha-Max/main/profile-3d-contrib/profile-night-rainbow.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CrazyBuddha-MAX/CrazyBuddha-Max/main/profile-3d-contrib/profile-gitblock.svg">
+  <img alt="GitHub Contributions" src="https://raw.githubusercontent.com/CrazyBuddha-Max/CrazyBuddha-MAX/main/profile-3d-contrib/profile-night-rainbow.svg">
 </picture>
 
 ---
