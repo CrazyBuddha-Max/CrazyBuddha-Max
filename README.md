@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=42A5F5&center=true&vCenter=true&width=500&lines=I'm+CrazyBuddha-MAX;AI+Developer+%26+Security;3D+Modeling+Enthusiast;Welcome+to+my+space!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=42A5F5&center=true&vCenter=true&width=500&lines=I'm+CrazyBuddha-Max;AI+Developer+%26+Security;3D+Modeling+Enthusiast;Welcome+to+my+space!">
 </p>
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CrazyBuddha-MAX/CrazyBuddha-MAX/main/profile-3d-contrib/profile-night-rainbow.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CrazyBuddha-MAX/CrazyBuddha-MAX/main/profile-3d-contrib/profile-gitblock.svg">
-  <img alt="GitHub Contributions" src="https://raw.githubusercontent.com/CrazyBuddha-MAX/CrazyBuddha-MAX/main/profile-3d-contrib/profile-night-rainbow.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CrazyBuddha-Max/CrazyBuddha-Max/main/profile-3d-contrib/profile-night-rainbow.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CrazyBuddha-Max/CrazyBuddha-Max/main/profile-3d-contrib/profile-gitblock.svg">
+  <img alt="GitHub Contributions" src="https://raw.githubusercontent.com/CrazyBuddha-Max/CrazyBuddha-Max/main/profile-3d-contrib/profile-night-rainbow.svg">
 </picture>
 </p>
 
@@ -29,13 +29,13 @@
 
 ### 📊 统计数据 / Github Stats
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CrazyBuddha-MAX&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrazyBuddha-MAX&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CrazyBuddha-Max&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrazyBuddha-Max&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ### 📈 活跃趋势 / Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CrazyBuddha-MAX&theme=react-dark" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CrazyBuddha-Max&theme=react-dark" width="100%">
 </p>
