@@ -8,7 +8,6 @@ I’m currently working on something cool, Artificial intelligence, network secu
 - 📫 How to reach me: crazybuddha214993@gmail.com
 - 😄 Read more about my CSDN: [here](https://blog.csdn.net/qq_50631755?spm=1000.2115.3001.5343)
 
-![111](https://github-readme-stats.vercel.app/api?username=CrazyBuddha-MAX&show_icons=true&theme=github-compact)
 
 ### My Skill Set
 
