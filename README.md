@@ -18,11 +18,9 @@
 - ✍️ **技术博客**: [我的 CSDN 主页](https://blog.csdn.net/qq_50631755)
 - 📧 **联系方式**: crazybuddha214993@gmail.com
 
-### 🎖️ 核心领域 / Specialized Domains
+### ⚡ System Core
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Artificial_Intelligence-00FF00?style=for-the-badge&logo=openai&logoColor=black" />
-  <img src="https://img.shields.io/badge/Focus-Network_Security-FF0000?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-NLP_Expert-42A5F5?style=for-the-badge&logo=huggingface&logoColor=white" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZnd4cmZueGZ4Zng3Zng3Zng3Zng3Zng3Zng3Zng3ZngmcGlkPWFwaV9pbnRlcm5hbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" width="600" />
 </p>
 
 ### 🛠 技术栈 / My Skill Set
