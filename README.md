@@ -18,8 +18,10 @@
 - ✍️ **技术博客**: [我的 CSDN 主页](https://blog.csdn.net/qq_50631755)
 - 📧 **联系方式**: crazybuddha214993@gmail.com
 
-### 🏆 荣誉墙 / GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=CrazyBuddha-Max)](https://github.com/ryo-ma/github-profile-trophy)
+### 👾 GitHub 活动概览
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CrazyBuddha-Max&show_icons=true&theme=transparent&hide_border=true" />
+</p>
 
 ### 🛠 技术栈 / My Skill Set
 <p align="left">
