@@ -29,8 +29,8 @@
 
 ### 📊 统计数据 / Github Stats
 <p align="center">
-<img height="180em" src="https://github-readme-stats-six-rebel.vercel.app/api?username=CrazyBuddha-Max&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats-six-rebel.vercel.app/api/top-langs/?username=CrazyBuddha-Max&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=CrazyBuddha-Max&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=CrazyBuddha-Max&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
