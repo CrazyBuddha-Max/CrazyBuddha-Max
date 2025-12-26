@@ -40,9 +40,9 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007BFF&height=120&section=footer" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CrazyBuddha-Max&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=CrazyBuddha-Max&label=SYSTEM+ACCESS+COUNT&color=007BFF&style=flat-square" alt="Views" />
 </p>
