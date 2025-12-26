@@ -20,7 +20,7 @@
 
 ### 🛸 你所热爱的就是你的生活
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZnd4cmZueGZ4Zng3Zng3Zng3Zng3Zng3Zng3Zng3ZngmcGlkPWFwaV9pbnRlcm5hbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKMGpxxS05uYBC8/giphy.gif" width="600" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZnd4cmZueGZ4Zng3Zng3Zng3Zng3Zng3Zng3Zng3ZngmcGlkPWFwaV9pbnRlcm5hbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" width="600" />
 </p>
 
 ### 🛠 技术栈 / My Skill Set
