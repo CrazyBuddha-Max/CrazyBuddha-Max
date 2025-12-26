@@ -18,6 +18,13 @@
 - ✍️ **技术博客**: [我的 CSDN 主页](https://blog.csdn.net/qq_50631755)
 - 📧 **联系方式**: crazybuddha214993@gmail.com
 
+### 🏆 荣誉墙 / GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=CrazyBuddha-Max&theme=onedark&column=4&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
+  </a>
+</p>
+
 ### 🛠 技术栈 / My Skill Set
 <p align="left">
 <img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -27,12 +34,17 @@
 <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
 </p>
 
-### 📊 统计数据 / Github Stats
-<img src="https://metrics.lecoq.io/CrazyBuddha-Max?base=header,activity,community,repositories,metadata&base.indepth=true&config.timezone=Asia/Shanghai" />
-
 ---
 
 ### 📈 活跃趋势 / Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CrazyBuddha-Max&theme=react-dark" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CrazyBuddha-Max&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Views" />
 </p>
