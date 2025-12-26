@@ -29,8 +29,8 @@
 
 ### 📊 统计数据 / Github Stats
 <p align="center">
-<img height="180em" src="https://stats.justsong.pw/api?username=CrazyBuddha-Max&show_icons=true&theme=tokyonight&include_all_commits=true" />
-<img height="180em" src="https://stats.justsong.pw/api/top-langs/?username=CrazyBuddha-Max&layout=compact&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CrazyBuddha-MAX&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrazyBuddha-MAX&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
