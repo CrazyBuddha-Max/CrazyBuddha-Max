@@ -8,7 +8,7 @@
 - 📫 How to reach me: crazybuddha214993@gmail.com
 - 😄 Read more about my CSDN: [here](https://blog.csdn.net/qq_50631755?spm=1000.2115.3001.5343)
 
-![](https://github-readme-stats.vercel.app/api?username=CrazyBuddha-MAX&show_icons=true&theme=ambient_gradient)
+![](https://github-readme-stats.vercel.app/api?username=CrazyBuddha-MAX&show_icons=true&theme=github-compact)
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/CrazyBuddha-MAX/count.svg) visitor,Thank You! :kissing_heart: :kissing_heart:
 
