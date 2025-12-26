@@ -18,9 +18,11 @@
 - ✍️ **技术博客**: [我的 CSDN 主页](https://blog.csdn.net/qq_50631755)
 - 📧 **联系方式**: crazybuddha214993@gmail.com
 
-### 👾 GitHub 活动概览
+### 🎖️ 核心领域 / Specialized Domains
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CrazyBuddha-Max&show_icons=true&theme=transparent&hide_border=true" />
+  <img src="https://img.shields.io/badge/Focus-Artificial_Intelligence-00FF00?style=for-the-badge&logo=openai&logoColor=black" />
+  <img src="https://img.shields.io/badge/Focus-Network_Security-FF0000?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-NLP_Expert-42A5F5?style=for-the-badge&logo=huggingface&logoColor=white" />
 </p>
 
 ### 🛠 技术栈 / My Skill Set
