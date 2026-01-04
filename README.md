@@ -4,9 +4,9 @@
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CrazyBuddha-Max/CrazyBuddha-Max/master/profile-3d-contrib/profile-night-view.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CrazyBuddha-Max/CrazyBuddha-Max/master/profile-3d-contrib/profile-night-view.svg">
-  <img alt="GitHub Contributions" src="https://raw.githubusercontent.com/CrazyBuddha-Max/CrazyBuddha-Max/master/profile-3d-contrib/profile-night-view.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CrazyBuddha-Max/CrazyBuddha-Max/master/profile-3d-contrib/profile-south-season.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CrazyBuddha-Max/CrazyBuddha-Max/master/profile-3d-contrib/profile-south-season.svg">
+  <img alt="GitHub Contributions" src="https://raw.githubusercontent.com/CrazyBuddha-Max/CrazyBuddha-Max/master/profile-3d-contrib/profile-south-season.svg">
 </picture>
 </p>
 
