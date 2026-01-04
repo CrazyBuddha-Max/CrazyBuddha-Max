@@ -9,6 +9,9 @@
   <img alt="GitHub Contributions" src="https://raw.githubusercontent.com/CrazyBuddha-Max/CrazyBuddha-Max/main/profile-3d-contrib/profile-night-rainbow.svg">
 </picture>
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrazyBuddha-Max&layout=compact&hide=html,css,cpp,javascript&title_color=42A5F5&icon_color=42A5F5&text_color=777&bg_color=ffffff00" />
+</p>
 
 ---
 
