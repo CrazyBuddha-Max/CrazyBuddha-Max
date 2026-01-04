@@ -10,9 +10,6 @@
 </picture>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrazyBuddha-Max&layout=compact&hide=html,css,javascript,vue,c%2B%2B&title_color=42A5F5&icon_color=42A5F5&text_color=777&bg_color=00000000" />
-</p>
 
 ---
 
